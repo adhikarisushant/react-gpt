@@ -1,7 +1,7 @@
 .gpt3__header {
     display: flex;
     flex-direction: row;
-    margin-top: -4rem;
+    margin-top: -3rem;
 }
 
 .gpt3__header-content {
